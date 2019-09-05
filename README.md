@@ -3,5 +3,6 @@ This directory contains all analysis scripts for Mozilla's Voice Comparison stud
 
 
 ## Directory Info
-|- **scripts/** - Original R scripts by Jessica and Janice.  
-|- **notebooks/** - Jupyter notebooks by Jim.  
+|- **scripts/** Original R scripts by Jessica and Janice.  
+|- **notebooks/** Jupyter notebooks by Jim.  
+|---- factor_analysis_7-17-19: Notebook specifically for factor analysis of the Voice Quality survey
