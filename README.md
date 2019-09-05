@@ -5,4 +5,3 @@ This directory contains all analysis scripts for Mozilla's Voice Comparison stud
 ## Directory Info
 |- **scripts/** - Original R scripts by Jessica and Janice.  
 |- **notebooks/** - Jupyter notebooks by Jim.  
-|- **data/** - add data files for analysis.  
